@@ -10,15 +10,18 @@
 
 <!-- 技能图标 (亮色/暗色自适应) -->
 <p align="center">
-  <!-- Light mode icons -->
   <a href="https://skillicons.dev#gh-light-mode-only" target="_blank">
-    <img src="https://skillicons.dev/icons?theme=light&perline=12&i=linux,openwrt,python,bash,docker,git,github,githubactions,vim,md,c,cpp,lua,nginx,regex,stackoverflow,visualstudio,vscode" alt="Light mode skills" />
+    <img align="center" src="https://skillicons.dev/icons?theme=light&perline=14&i=arduino,autocad,bash,c,cpp,css,docker,git,github,githubactions,gitlab,html,js,linux" alt="Skills" />
+  </p>
+  <a href="https://skillicons.dev#gh-light-mode-only" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?theme=light&perline=14&i=lua,md,nginx,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode" alt="Skills" />
   </a>
-  <!-- Dark mode icons -->
   <a href="https://skillicons.dev#gh-dark-mode-only" target="_blank">
-    <img src="https://skillicons.dev/icons?perline=12&i=linux,openwrt,python,bash,docker,git,github,githubactions,vim,md,c,cpp,lua,nginx,regex,stackoverflow,visualstudio,vscode" alt="Dark mode skills" />
+    <img align="center" src="https://skillicons.dev/icons?perline=14&i=arduino,autocad,bash,c,cpp,css,docker,git,github,githubactions,gitlab,html,js,linux" alt="Skills" />
+  </p>
+  <a href="https://skillicons.dev#gh-dark-mode-only" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?perline=14&i=lua,md,nginx,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode" alt="Skills" />
   </a>
-</p>
 
 ---
 
