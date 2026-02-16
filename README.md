@@ -1,11 +1,11 @@
-# 👋 Hey There! I'm Zhao Wenwen
+# Hey There! 👋 Xiaokailnol
 
 - 👨‍💻 业余开发者  
 - 🐧 对 **Linux** 和 **OpenWrt** 非常感兴趣  
 - ✨ 喜欢折腾和制作改善生活的小工具  
 - 💕 热爱开源，欢迎探索我的仓库  
 
-你可以在这里找到我的开源项目：[https://github.com/Xiaokailnol](https://github.com/Xiaokailnol)
+💻 我的开源主页：[https://github.com/Xiaokailnol](https://github.com/Xiaokailnol)
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -18,18 +18,21 @@
 </div>
 
 <div align="center">
-  <h4>热门项目</h4>
-  <a href="https://github.com/Xiaokailnol/package_kernel_mac80211">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=package_kernel_mac80211&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+  <h4>🔥 热门仓库</h4>
+  <a href="https://github.com/Xiaokailnol/openwrt_packages" target="_blank">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=openwrt_packages&title_color=FCA261&icon_color=F78C6C&text_color=FFE082" />
   </a>
-  <a href="https://github.com/Xiaokailnol/package_kernel_mt76">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=package_kernel_mt76&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+  <a href="https://github.com/Xiaokailnol/openwrt_helloworld" target="_blank">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=openwrt_helloworld&title_color=FCA261&icon_color=F78C6C&text_color=FFE082" />
   </a>
-  <a href="https://github.com/Xiaokailnol/target_linux_rockchip-6.x">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=target_linux_rockchip-6.x&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+  <a href="https://github.com/Xiaokailnol/mihomo-template" target="_blank">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=mihomo-template&title_color=FCA261&icon_color=F78C6C&text_color=FFE082" />
+  </a>
+  <a href="https://github.com/Xiaokailnol/openwrt_core" target="_blank">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=openwrt_core&title_color=FCA261&icon_color=F78C6C&text_color=FFE082" />
   </a>
 </div>
 
 ---
 
-🎯 欢迎 ⭐️ 收藏、🍴 Fork 或提出 Issues，和我一起探索 OpenWrt 与 Linux 的世界！
+🎯 欢迎 ⭐️ 收藏、🍴 Fork 或提出 Issues，和我一起探索 OpenWrt 与 Linux 的世界！  
