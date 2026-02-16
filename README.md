@@ -1,4 +1,6 @@
-# Hey There! I'm Xiaokailnol 👋
+<h1 align="center">
+  ✨ Hey There! I'm Xiaokailnol 👋
+</h1>
 
 <p align="center">
   <a href="https://github.com/Xiaokailnol"><img src="https://img.shields.io/github/followers/Xiaokailnol?style=social" alt="GitHub followers"></a>
@@ -6,24 +8,15 @@
   <a href="https://github.com/Xiaokailnol"><img src="https://img.shields.io/github/last-commit/Xiaokailnol/Xiaokailnol?style=social" alt="Last commit"></a>
 </p>
 
-<!-- 亮色/暗色模式技能图标 -->
+<!-- 技能图标 (亮色/暗色自适应) -->
 <p align="center">
-  <!-- 亮色模式图标 -->
+  <!-- Light mode icons -->
   <a href="https://skillicons.dev#gh-light-mode-only" target="_blank">
-    <img src="https://skillicons.dev/icons?theme=light&perline=10&i=linux,openwrt,python,bash,docker,git,github,githubactions,vim,md" alt="Light mode skills" />
+    <img src="https://skillicons.dev/icons?theme=light&perline=12&i=linux,openwrt,python,bash,docker,git,github,githubactions,vim,md,c,cpp,lua,nginx,regex,stackoverflow,visualstudio,vscode" alt="Light mode skills" />
   </a>
-  <!-- 暗色模式图标 -->
+  <!-- Dark mode icons -->
   <a href="https://skillicons.dev#gh-dark-mode-only" target="_blank">
-    <img src="https://skillicons.dev/icons?perline=10&i=linux,openwrt,python,bash,docker,git,github,githubactions,vim,md" alt="Dark mode skills" />
-  </a>
-  <br>
-  <!-- 第二行图标（亮色） -->
-  <a href="https://skillicons.dev#gh-light-mode-only" target="_blank">
-    <img src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,lua,nginx,regex,stackoverflow,visualstudio,vscode" alt="Light mode skills second row" />
-  </a>
-  <!-- 第二行图标（暗色） -->
-  <a href="https://skillicons.dev#gh-dark-mode-only" target="_blank">
-    <img src="https://skillicons.dev/icons?perline=8&i=c,cpp,lua,nginx,regex,stackoverflow,visualstudio,vscode" alt="Dark mode skills second row" />
+    <img src="https://skillicons.dev/icons?perline=12&i=linux,openwrt,python,bash,docker,git,github,githubactions,vim,md,c,cpp,lua,nginx,regex,stackoverflow,visualstudio,vscode" alt="Dark mode skills" />
   </a>
 </p>
 
@@ -39,15 +32,15 @@
 ---
 
 <div align="center">
-  <!-- GitHub Stats 卡片 -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/Xiaokailnol" target="_blank">
     <img src="https://github-readme-stats-iota-eight-46.vercel.app/api?username=Xiaokailnol&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="GitHub Stats" />
   </a>
-  <!-- Top Langs 卡片 -->
+  <!-- Top Languages -->
   <a href="https://github.com/Xiaokailnol" target="_blank">
     <img src="https://github-readme-stats-iota-eight-46.vercel.app/api/top-langs/?username=Xiaokailnol&layout=compact&langs_count=8&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Languages" />
   </a>
-  <!-- GitHub Streak 卡片（使用自定义配色，与 stats 协调） -->
+  <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats-amber.vercel.app?user=Xiaokailnol&hide_border=true&border_radius=15&fire=FFAFCC&ring=5BCEFAD7&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=C4E66E&sideLabels=BBC972&dates=CAB59C&stroke=C0AA9253&background=00000000" alt="GitHub Streak" />
   </a>
@@ -58,7 +51,7 @@
 <h3 align="center">🔥 热门仓库</h3>
 
 <div align="center">
-  <!-- 亮色模式仓库卡片 -->
+  <!-- Light mode repositories -->
   <a href="https://github.com/Xiaokailnol/openwrt_packages#gh-light-mode-only" target="_blank">
     <img src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=openwrt_packages&title_color=FCA261&icon_color=F78C6C&text_color=FFE082&bg_color=00000000&hide_border=true" />
   </a>
@@ -73,7 +66,7 @@
     <img src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=openwrt_core&title_color=FCA261&icon_color=F78C6C&text_color=FFE082&bg_color=00000000&hide_border=true" />
   </a>
 
-  <!-- 暗色模式仓库卡片（使用 Nord 主题） -->
+  <!-- Dark mode repositories (Nord theme) -->
   <a href="https://github.com/Xiaokailnol/openwrt_packages#gh-dark-mode-only" target="_blank">
     <img src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=Xiaokailnol&repo=openwrt_packages&hide_border=true&theme=nord" />
   </a>
